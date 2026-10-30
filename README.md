@@ -4,8 +4,9 @@
 </h1>
 
 <h3 align="left">
-💻 Aspiring Java Developer | Core Java | Spring Boot | REST APIs | Hibernate | MySQL
+  💻 Aspiring Java Developer | Core Java | Spring Boot | REST APIs | Hibernate | MySQL
 </h3>
+
 <p align="left">
   🚀 Passionate about building backend applications, solving problems, and exploring new technologies.
   <br/>
@@ -86,11 +87,24 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goutam437&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="32%" alt="Top Languages" />
 </div>
 
-<br/>
+<h2 align="left">📈 Profile Details + 3D Contribution Graph</h2>
+
+<div align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goutam437&theme=tokyonight"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
+
+  <br/><br/>
+</div>
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=goutam437&icon=0&color=13" alt="Profile Views" />
 </div>
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+<br/>
